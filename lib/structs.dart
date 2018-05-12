@@ -44,7 +44,7 @@ enum VorbisError {
   invalidStreamStructureVersion,
   continuedPacketFlagInvalid,
   incorrectStreamSerialNumber,
-  invalidFisrtPage,
+  invalidFirstPage,
   badPacketType,
   cantFindLastPage,
   seekFailed
